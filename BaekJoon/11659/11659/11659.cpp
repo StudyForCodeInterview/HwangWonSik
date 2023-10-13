@@ -30,7 +30,7 @@ int main()
 	}
 	for (int i = 0; i < answerCnt; i++)
 	{
-		cout << sumArr[endArr[i]] - sumArr[startArr[i] - 1] << endl;
+		cout << sumArr[endArr[i]] - sumArr[startArr[i] - 1] << '\n';
 	}
 
 }
