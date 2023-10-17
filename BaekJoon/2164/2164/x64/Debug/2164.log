@@ -1,0 +1,3 @@
+﻿  2164.cpp
+C:\Users\ghkdd\Desktop\CodingTest\BaekJoon\2164\2164\2164.cpp(17,6): warning C4101: 'nexti' :참조되지 않은 지역 변수입니다.
+  2164.vcxproj -> C:\Users\ghkdd\Desktop\CodingTest\BaekJoon\2164\x64\Debug\2164.exe
