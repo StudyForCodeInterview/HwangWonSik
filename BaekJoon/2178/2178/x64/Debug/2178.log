@@ -1,0 +1,5 @@
+﻿  2178.cpp
+  책.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\queue(142,36): error C2039: 'pop_front': 'std::vector<Node *,std::allocator<Node *>>'의 멤버가 아닙니다.
+C:\Users\ghkdd\Desktop\Procademy\2178\2178\책.cpp(32,16): message : 'std::vector<Node *,std::allocator<Node *>>' 선언을 참조하십시오.
+  코드를 생성하고 있습니다...
